@@ -1,6 +1,8 @@
-CodEvo Solutions Web Development Internship 
-Welcome to the CodEvo Solutions Web Development Internship This repository contains all the tasks completed during the 45-day internship program, which includes beginner, intermediate, and advanced-level web development projects.
-📌 Internship Overview
+# CodEvo Solutions Web Development Internship 
+
+Welcome to the **CodEvo Solutions Web Development Internship**! This repository contains all the tasks completed during the 45-day internship program, which includes beginner, intermediate, and advanced-level web development projects.
+
+## 📌 Internship Overview
 
 The internship consists of **5 tasks** categorized into different difficulty levels:
 
@@ -14,9 +16,9 @@ The internship consists of **5 tasks** categorized into different difficulty lev
 
 Total points: **15/15** (Required for successful completion)
 
-🚀 Tasks Breakdown
+## 🚀 Tasks Breakdown
 
-🏆 Task 1: Personal Portfolio Website
+### 🏆 Task 1: Personal Portfolio Website
 
 - Create a responsive and interactive personal portfolio.
 - Technologies Used: **HTML, CSS, JavaScript**
@@ -26,7 +28,7 @@ Total points: **15/15** (Required for successful completion)
   - Interactive animations.
   - Deployment on **GitHub Pages/Netlify**.
 
-📸 Task 2: Responsive Image Gallery
+### 📸 Task 2: Responsive Image Gallery
 
 - Develop a visually appealing image gallery.
 - Technologies Used: **HTML, CSS, JavaScript**
@@ -35,7 +37,8 @@ Total points: **15/15** (Required for successful completion)
   - Image sliding, zooming, and lightbox display.
   - Responsive across different devices.
   - Optimized for performance.
-🔐 Task 3: User Authentication & Authorization
+
+### 🔐 Task 3: User Authentication & Authorization
 
 - Implement a secure authentication system.
 - Technologies Used: **Node.js, Express.js, MongoDB, Bcrypt**
@@ -45,7 +48,7 @@ Total points: **15/15** (Required for successful completion)
   - Role-based access control.
   - Secure endpoints with middleware authentication.
 
- ☁️ Task 4: Weather Forecast Website
+### ☁️ Task 4: Weather Forecast Website
 
 - Create a real-time weather forecasting application.
 - Technologies Used: **HTML, CSS, JavaScript, Weather API**
@@ -55,7 +58,7 @@ Total points: **15/15** (Required for successful completion)
   - Geolocation and manual search.
   - Customizable units (Celsius/Fahrenheit).
 
-📹 Task 5: Advanced Zoom Clone
+### 📹 Task 5: Advanced Zoom Clone
 
 - Develop a video conferencing application.
 - Technologies Used: **WebRTC, Node.js, Express.js, Socket.io**
@@ -64,6 +67,3 @@ Total points: **15/15** (Required for successful completion)
   - Multi-participant video calls.
   - Screen sharing and whiteboard collaboration.
   - Secure user authentication.
-
-
-
